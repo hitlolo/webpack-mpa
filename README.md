@@ -1,6 +1,4 @@
-# 🚀 Welcome to your new awesome project!
-
-# 传统多页面项目的webpack初始配置脚手架。
+## 传统多页面项目的webpack初始配置脚手架
 源文件结构：
 ```
 SRC
