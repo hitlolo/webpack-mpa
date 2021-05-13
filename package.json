@@ -29,8 +29,6 @@
     "html-webpack-plugin": "^5.3.1",
     "mini-css-extract-plugin": "^1.6.0",
     "postcss": "^8.2.13",
-    "postcss-autoreset": "^3.0.3",
-    "postcss-initial": "^3.0.4",
     "postcss-loader": "^5.2.0",
     "pug": "^3.0.2",
     "pug-html-loader": "^1.1.5",
